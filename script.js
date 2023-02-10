@@ -150,7 +150,7 @@ gsap.from("#sectionD .content>img",{
       trigger:"#sectionD",
       start:"center top",
       // end:"50% 50%",
-      markers:true,
+      // markers:true,
   },
   duration:1.5,
   x:800,
